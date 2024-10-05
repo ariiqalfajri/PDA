@@ -28,10 +28,10 @@ from datetime import datetime
 import streamlit as st
 
 
-day_df = pd.read_csv(r"C:\Users\ariiq\Downloads\day.csv")
+day_df = pd.read_csv("day.csv")
 day_df.head()
 
-hour_df = pd.read_csv(r"C:\Users\ariiq\Downloads\hour.csv")
+hour_df = pd.read_csv("hour.csv")
 hour_df.head()
 
 day_df.info()
