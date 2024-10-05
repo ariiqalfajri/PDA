@@ -1,7 +1,6 @@
-numpy 1.26.4
-pandas 2.1.4
-matplotlib 3.8.0
-seaborn 0.12.2
-plotly 5.9.0
-streamlit 1.30.0
-datetime from python
+NumPy==1.26.4
+Pandas==2.1.4
+Matplotlib==3.8.0
+Seaborn==0.12.2
+Plotly==5.9.0
+Streamlit==1.30.0
